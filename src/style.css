@@ -1,40 +1,66 @@
-.pic{
-    width: 300px;
-    height: 200px;
-    border-radius: 100px;
-
+.profile{
+    border-radius: 50%;
 }
-/* element:firstsection::{
-
-
-justify::content; 
-
+.Summary{color: purple;}
+.Education{color:purple;}
+.Experince{color:purple;}
+.TECH4GIRLS{color: purple;}
+.Certifications{color: purple;}
+.Motivated and result-diven{color:purple ;}
+.workspace{
+ background-color: red;
+ padding: 30px; 
+ margin: 100px;
+ justify-content: space-evenly;
+ border: 3px solid;
+ box-shadow: 100%;
+ border: 50px,50px,50px;  
+}
+.cv-imge{
+width: 200px;
+height: 200px;
+border-radius: 100px;
+}
+.firstsection{
+    display:flex;
+    justify-self: right;
+    flex-direction: column;
+}
+.personal-information{
     display: flex;
-    background-color: bisque;
+    background-color: rgb(6,28,109);
     justify-content: center;
-} */
-    
-h3
-{color: blueviolet;
-
-
-
 }
-    
-    
-
-
-    .cover{
-width: 200px
-    height 200px;
-margin: 20px; 
-border-radius :30px;
-color: white;
- color: 2;
-color: black;
-position: 2px;
-    margin: right 20px  ;
-    display: flex
+.h3{
+    color: aqua;
 }
-     
-
+.cover{
+    width: 200px;
+    height: 200px;
+    margin: 20px;
+    border-radius: 30px;
+}
+.change-color1{
+    color: blue;
+}
+.change-color2{
+    color: blue;
+}
+.change-color3{
+    color: blue;   
+}
+.change-color4{
+    color: blue;
+}
+.change-position{
+    margin-right: 20px;
+}
+.all{
+    display: flex;
+}
+.h1{
+    color:#09a05a;
+}
+body{
+    background-color: white;
+}
